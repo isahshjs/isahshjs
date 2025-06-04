@@ -38,4 +38,8 @@ Este espaço é uma mistura de **tecnologia**, **design** e **cultura japonesa**
 - 📸 Gosto de capturar a beleza dos momentos simples — como a floração de uma sakura.
 
 ---
+# 🌐 Socials:
+<br>
+ <div align="center">
+    <a href="https://www.instagram.com/isahshjs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
 
